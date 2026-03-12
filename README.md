@@ -51,7 +51,7 @@ Go to the **Win11 tab** in settings and switch to **Win10 style** for direct acc
 ### Donate
 
 If you enjoy this app, please consider supporting the project!  
-👉 [ServalC4t's Site](https://servalc4t.github.io/my-projects/)
+👉 [Ko-fi](https://ko-fi.com/servalc4t)
 
 ---
 
@@ -98,7 +98,7 @@ Windows 11 では右クリックメニューが折りたたまれているため
 ### 寄付 / Donate
 
 このソフトが気に入っていただけたら、ぜひサポートをご検討ください！  
-👉 [ServalC4t のサイト](https://servalc4t.github.io/my-projects/)
+👉 [Ko-fi](https://ko-fi.com/servalc4t)
 
 ---
 
