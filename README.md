@@ -53,7 +53,7 @@ Go to the **Win11 tab** in settings and switch to **Win10 style** for direct acc
 
 If you enjoy this app, please consider supporting the project!  
 👉 [Ko-fi](https://ko-fi.com/servalc4t)
-
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ServalC4t)
 ---
 
 
@@ -100,7 +100,7 @@ Windows 11 では右クリックメニューが折りたたまれているため
 
 このソフトが気に入っていただけたら、ぜひサポートをご検討ください！  
 👉 [Ko-fi](https://ko-fi.com/servalc4t)
-
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ServalC4t)
 ---
 
 
