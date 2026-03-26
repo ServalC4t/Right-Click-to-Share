@@ -1,11 +1,9 @@
-# Right-Click to Share / 右クリックでシェア
-
+# Right-Click to Share
 <p align="center">
   <img src="RC2S.png" width="128" alt="Right-Click to Share">
 </p>
 
 <p align="center">
-  画像・動画ファイルを右クリックするだけで、X (Twitter)・Bluesky・Threads・LinkedInなどに即シェア。<br>
   Right-click any image or video to instantly share it on X, Bluesky, Threads, LinkedIn, and more.
 </p>
 
